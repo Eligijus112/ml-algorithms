@@ -1,2 +1,3 @@
-# ml-algorithms
-Machine Learning algorithm showcase in Python
+# Machine Learning in Python 
+
+Machine Learning (**ML**) algorithm showcase in Python.
