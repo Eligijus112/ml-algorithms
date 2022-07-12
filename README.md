@@ -16,6 +16,8 @@ Machine Learning (**ML**) algorithm showcase in Python.
 
 All the data is in the `data` folder.
 
+# Introduction
+
 The introduction notebook is in the `ML-introduction.ipynb` file. It covers the basic concepts of machine learning like: 
 
 * Data structures used in ML 
@@ -25,3 +27,7 @@ The introduction notebook is in the `ML-introduction.ipynb` file. It covers the 
 * Optimization 
 
 * Normalization 
+
+# RNN 
+
+Info about the recurrent neural network (RNN) algorithm is in the `RNN.ipynb` file. 
